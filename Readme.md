@@ -1,114 +1,68 @@
-📚 Academic Resource Archive
+# ⏳ Time Travel — Presentation Archive
 
-This repository contains a structured collection of academic learning materials including notes, guides, presentations, and reference documents. The purpose of this project is to make study resources easily accessible online from any location.
+This repository hosts the official presentation materials for **Time Travel**, created for online access and universal availability.
 
-All files are organized for clarity and quick retrieval.
-
-
----
-
-🎯 Objective
-
-The goal of this repository is to:
-
-Store important academic documents securely in the cloud
-
-Enable access from any device, anytime
-
-Maintain a clean and organized digital study library
-
-Share selected public resources efficiently
-
-
-This functions as a personal academic content server using GitHub infrastructure.
-
+The content is published in two formats:
+- Downloadable PowerPoint file (PPTX)
+- Web-based interactive presentation
 
 ---
 
-📂 Contents
+## 📂 Available Resources
 
-This repository may include:
+### 📊 PowerPoint Presentation
+The full presentation is available as a **PPTX file** for offline use.
 
-📄 PDF Guides & Notes
+**How to download:**
+1. Open the PPTX file in this repository  
+2. Click **Download**  
+3. Save it to your device  
 
-📊 PowerPoint Presentations (PPTX)
-
-📘 Subject-based study materials
-
-🧠 Concept explanations and references
-
-
+This file can be opened using Microsoft PowerPoint, LibreOffice Impress, or Google Slides.
 
 ---
 
-🌍 Accessing Files
+### 🌐 Web Version (Canva)
+You can also view the presentation directly in your browser without downloading anything.
 
-All public files can be downloaded directly using GitHub links.
+🔗 **Live Presentation:**  
+https://nafiz530.my.canva.site/timetravel
 
-To download a file:
-
-1. Open the file in the repository
-
-
-2. Click Download or Raw
-
-
-3. The file will download to your device
-
-
-
-These links work globally without login requirements.
-
+This version supports smooth navigation and works on both desktop and mobile devices.
 
 ---
 
-⚙️ Platform Use
+## 🎯 Purpose
 
-This repository uses GitHub as a cloud file hosting platform. It provides:
-
-Reliable storage
-
-Version control
-
-Easy sharing
-
-Public access support
-
-
+This repository exists to:
+- Provide easy access to presentation materials from anywhere  
+- Ensure reliable sharing through clean, public links  
+- Maintain a permanent academic archive  
 
 ---
 
-🗂 Organization Structure
+## 🌍 Access Policy
 
-Files are arranged based on:
-
-Subject
-
-Class/Level
-
-Resource type
-
-
-This ensures efficient navigation as the archive grows.
-
+- No login required  
+- Publicly accessible  
+- Free for educational viewing  
 
 ---
 
-🚀 Batch Information
+## 🚀 Batch Information
 
-Batch: AFT-OCTOBER
-
-
----
-
-🔒 Usage Notice
-
-Resources are shared for educational purposes only. Redistribution or misuse of copyrighted material is not intended.
-
+**Batch:** AFT-OCTOBER
 
 ---
 
-👤 Maintainer
+## 👤 Maintainer
 
-Maintained by Md Nafiz
-Student | Tech Enthusiast | Academic Resource Organizer
+**Md Nafiz**  
+Academic Content Creator & Technology Enthusiast
+
+---
+
+## 📌 Notes
+
+All materials are shared strictly for educational purposes.  
+Unauthorized commercial use is not intended.
